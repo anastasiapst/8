@@ -16,8 +16,6 @@ p {
     font-size: 11px;
     line-height: 18px;
     font-weight: 520;
-}
-body {
     background-color: rgba(255, 255, 255, 0.0);
 }
 </style>

@@ -1,3 +1,5 @@
+<div style="background-color: rgba(255, 255, 255, 0.5); overflow: hidden;">
+
 ![Картинка](a386e6174379397.6504a7e76050e (1).png)
 ● MULTI-CHANNEL MEDIA ABOUT EVERYDAY LIFE (NON)OBVIOUS
 <br>VIEW PROJECT →
@@ -17,3 +19,5 @@ background-color: rgba(255, 255, 255, 0.5);
             padding: 0px;
 }
 </style>
+
+</div>

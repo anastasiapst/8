@@ -15,8 +15,6 @@
 <style>
 p {
 font-family: 'Inter', sans-serif; font-size: 11px; line-height: 18px; font-weight: 520;"
-background-color: rgba(255, 255, 255, 0.5);
-            padding: 0px;
 }
 </style>
 

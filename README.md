@@ -12,6 +12,6 @@
 
 <style>
 p {
-font-size: 11px; line-height: 18px; font-weight: 530;"
+font-size: 11px; line-height: 18px; font-weight: 550;"
 }
 </style>
